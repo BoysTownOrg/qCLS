@@ -4,3 +4,4 @@ qCLS is a categorical loudness acaling (CLS) test that was designed to efficient
 Installation 
 * A complete set of test materials (in a folder hierarchy) is available for download either as a compressed archive or a GitHub repository.
 * This software is written in MATLAB code and has been tested on a PC under Windows 11 running MATLAB version 2021a.
+* qCLS test materials are being distributed under a creative commons license (BY-NC-SA).
